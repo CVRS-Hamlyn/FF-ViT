@@ -1,5 +1,5 @@
 # Supplemental Material
-The convergence and stability study & description of blur metrics are avaliable at [here](https://github.com/CVRS-Hamlyn/FF-ViT/main/doc/supplemental_material.pdf).
+The convergence and stability study & description of blur metrics are avaliable at [here](https://https://github.com/CVRS-Hamlyn/FF-ViT/blob/main/doc/Supplemental_material.pdf).
 
 ## SOTA Comparison
 
