@@ -1,5 +1,6 @@
 # FF-ViT:Probe Orientation Regression for Robot-assisted Endomicroscopy Tissue Scanning
 The paper is accepted in IPCAI 2024 and published in IJCARS 2024.
+![framework](doc/fw.png)
 ## Training Code and dataset
 For training:
 ```
